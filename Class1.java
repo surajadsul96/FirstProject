@@ -5,6 +5,6 @@ public class Class1 {
         System.out.println("Changes in code in GitHub");
         System.out.println("Branch_Suraj111");
         System.out.println("Changes from IDE");
-        System.out.println("Fetching");
+        System.out.println("Fetching22");
     }
 }
